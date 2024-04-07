@@ -1,5 +1,5 @@
 # nodeapp
 Levanta docker con:
 ```
-docker run --rm -d -p 5000:3000 asalasher/nodeforaa2:v1
+docker run --rm -d -p 3000:3000 asalasher/nodeforaa2:v1
 ```
